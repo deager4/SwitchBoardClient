@@ -1,0 +1,6 @@
+Alpha
+0.1 - Main Thread
+0.2 - Listening Thread
+0.3 - Sender Thread
+0.4 - Database
+0.5 - GUI
